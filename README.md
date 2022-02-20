@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @woundmee
-- 👀 I’m interested in delevoping, coding and chiiling xD
-- 🌱 I am constantly learning!
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woundmee)](https://github.com/anuraghazra/github-readme-stats)
