@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @woundmee
+- 👀 I’m interested in delevoping, coding and chiiling xD
+- 🌱 I am constantly learning!
