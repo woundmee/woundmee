@@ -1,5 +1,5 @@
 
-## Привет 👋
+## Приветствую всех 👋
 
 <!--<a href="https://github.com/woundmee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -8,7 +8,7 @@
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>-->
 
-Я занимаюсь backend разработкой на .NET Core. Имею опыт в промышленной автоматизации. Постоянно изучаю новые технологии и стараюсь применять их в работе.
+Я начинающий разработчик на Golang (свитчер с C#). Имею опыт разработки на .NET Core (C#, ASP.NET Core, WebAPI, ORM EF) в промышленной автоматизации. Стараюсь постоянно изучать новые технологии и применять полученные знания на практике.
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woundmee&layout=compact&theme=dark)](https://github.com/woundmee/)-->
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=woundmee&show_icons=true&theme=github_dark)-->
