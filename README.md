@@ -1,4 +1,4 @@
-# 👋 Привет &nbsp; ![Profile views counter](https://komarev.com/ghpvc/?username=woundmee&&style=flat-square)
+## ℹ️ Обо мне &nbsp; ![Profile views counter](https://komarev.com/ghpvc/?username=woundmee&&style=flat-square)
 
 Backend-разработчик (Go). Разрабатываю CLI-утилиты и серверные приложения, интересуюсь масштабируемыми и высоконагруженными системами.
 <br>
@@ -20,7 +20,12 @@ Backend-разработчик (Go). Разрабатываю CLI-утилиты
 <br/>
 
 ## 📫 Контакты
-- [Telegram](https://t.me/rrojab)
+
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woundmee)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rrojab)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woundmee@gmail.com)
+
+
 
 
 <!-- COMMENTED -->
