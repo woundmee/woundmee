@@ -16,6 +16,7 @@ Backend-разработчик (Go). Разрабатываю CLI-утилиты
 - [namaztime](https://github.com/woundmee/namaztime) — микросервисное приложение на Go для получения времени намазов.
 - [go-check-backup](https://github.com/woundmee/go-check-backup) — CLI-инструмент для проверки актуальности и наличия резервных копий.
 - [mypyramid-askue-web](https://github.com/woundmee/my-pyramid-askue-web) — web-приложение для взаимодействия с API системы АСКУЭ по протоколу SOAP.
+- [golog-lint]([url](https://github.com/woundmee/golog-lint)) — кастомный линтер для slog/zap/log (Golang).
 
 <br/>
 
