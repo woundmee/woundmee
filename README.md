@@ -7,7 +7,7 @@ Backend-разработчик (Go). Разрабатываю CLI-утилиты
 ## 💻 Навыки
 
 **Языки:** Go, C#, Python, SQL<br>
-**Технологии:** Docker, PostgreSQL, MSSQL, Linux/Windows, Git, REST API, SOAP, Swagger, ASP .NET Core, ORM.
+**Технологии:** Docker, PostgreSQL, MSSQL, SQLite, Linux/Windows, Git, REST API, SOAP, Swagger, ASP .NET Core, Nginx.
 
 <br />
 
