@@ -23,7 +23,7 @@ Backend-разработчик (Go). Разрабатываю CLI-утилиты
 ## 📫 Контакты
 
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/woundmee)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rrojab)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/rrojablog)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:woundmee@gmail.com)
 
 
@@ -47,7 +47,7 @@ Backend-разработчик (Go). Разрабатываю CLI-утилиты
 <!--<a href="https://github.com/woundmee" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://t.me/wdqm8" target="_blank">
+<a href="https://t.me/rrojablog" target="_blank">
 <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>-->
 
