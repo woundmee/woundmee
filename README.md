@@ -13,6 +13,7 @@ Backend-разработчик (Go). Разрабатываю CLI-утилиты
 
 ## 🚀 Проекты
 
+- [youtube-downloader](https://github.com/woundmee/youtube-downloader) - Telegram-бот для скачивания видео и аудио с YouTube.
 - [telegram-digest](https://github.com/woundmee/telegram-digest) — собирает публикации из веб-лент и открытых Telegram-каналов для отправки в личного бота.
 - [namaztime](https://github.com/woundmee/namaztime) — микросервисное приложение на Go для получения времени намазов.
 - [go-check-backup](https://github.com/woundmee/go-check-backup) — CLI-инструмент для проверки актуальности и наличия резервных копий.
