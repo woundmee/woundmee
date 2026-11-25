@@ -19,7 +19,6 @@ Backend-разработчик (Go). Разрабатываю CLI-утилиты
 - [go-check-backup](https://github.com/woundmee/go-check-backup) — CLI-инструмент для проверки актуальности и наличия резервных копий.
 - [mypyramid-askue-web](https://github.com/woundmee/my-pyramid-askue-web) — web-приложение для взаимодействия с API системы АСКУЭ по протоколу SOAP.
 - [golog-lint](https://github.com/woundmee/golog-lint) — кастомный линтер для проверки логирования (Go) на соответствие стандарту.
-- [rblog](https://github.com/woundmee/rblog) — мой личный блог, доступный по адресу [rblog.tech](https://rblog.tech)
 
 <br/>
 
